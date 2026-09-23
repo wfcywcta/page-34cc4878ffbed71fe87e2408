@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "673e5b6730b6f87b21d309f1",
+  "owner": "wfcywcta",
+  "repo": "page-34cc4878ffbed71fe87e2408",
+  "title": "ZapZing",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "34cc4878ffbed71fe87e2408",
+      "a": "ZapZing",
+      "b": "2027官方最新地址导航",
+      "entity": "ZapZing",
+      "brand": "ZapZing",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3d6a120c7167e6e7dd479fed7b3af01847acfa51dd83d11bff3b5f5b1eb740f9",
+      "content": {
+        "primary_entity": "ZapZing",
+        "keyword1": "ZapZing",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，参考订阅配置文档完成导入。",
+          "AI_CLIENTS_TITLE": "设备与客户端",
+          "AI_CLOSING_TEXT": "选好套餐后，参照客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "灵活选择，按需启用",
+          "AI_DESCRIPTION": "，面向跨地区网络访问场景，提供基础版、旗舰版与团队版三档订阅。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备，并配备 IPLC 专线与流媒体解锁；团队版每月 1000GB 流量、支持 20 台设备，适合多人共享。可按年付获得优惠价，结合设备数量与流量需求选择合适档位。",
+          "AI_FEATURES_INTRO": "从流量、设备数与订阅周期三个角度评估套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按月度用量挑选。",
+          "AI_FEATURE_TEXT_2": "3 台、5 台、20 台设备三档覆盖个人到团队场景。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，旗舰版兼顾流媒体与 IPLC 加速。",
+          "AI_FEATURE_TITLE_1": "流量档位",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "先选套餐，再看设备适配，最后按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "ZapZing 提供基础版、旗舰版与团队版订阅，覆盖个人浏览、流媒体与团队共享。根据设备数量和流量需求选择档位，参照客户端文档导入订阅，即可开始使用。",
+          "AI_HERO_SUBTITLE": "按需选套餐，轻松配置订阅",
+          "AI_HIGHLIGHT_1": "三档套餐灵活切换",
+          "AI_HIGHLIGHT_2": "流量最高每月 1000GB",
+          "AI_HIGHLIGHT_3": "旗舰版支持 IPLC 专线",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "基础版适合轻度使用，旗舰版支持 5 台设备与 IPLC 专线，团队版支持 20 台设备共享。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量与流量额度，确认自身设备能够满足。",
+          "AI_STEP_TEXT_3": "按照对应客户端的订阅导入说明完成配置，随后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "ZapZing 订阅选择",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、流量与付费周期。",
+          "AI_FAQ_QUESTION_1": "ZapZing 的订阅链接如何导入客户端？",
+          "AI_FAQ_ANSWER_1": "在购买后获取订阅链接，打开所用客户端，选择从链接或剪贴板导入订阅，保存后更新节点列表即可。不同客户端导入方式略有差异，请参照对应客户端文档操作。",
+          "AI_FAQ_QUESTION_2": "一个套餐能同时在线多少台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。若家里有手机、平板、电脑多台同时使用，建议至少选择旗舰版。",
+          "AI_FAQ_QUESTION_3": "每月流量用超了怎么办？",
+          "AI_FAQ_ANSWER_3": "各档位按月提供 100GB、300GB 或 1000GB 流量。接近上限时可暂停大流量下载，或在下一计费周期升级到更高档位。",
+          "AI_FAQ_QUESTION_4": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_4": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月；按年付分别为 ¥150/年、¥350/年、¥850/年，长期使用年付月均支出更低。",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版的线路有什么不同？",
+          "AI_FAQ_ANSWER_5": "旗舰版配置 IPLC 专线节点并针对游戏加速优化，团队版提供 VIP 专属高带宽节点并支持企业定制路由，适合对线路稳定性要求更高或多人共享的场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "guanglingjob.cn",
+    "host": "guanglingjob.cn"
+  },
+  "file_hashes": {
+    "index.html": "b280dbe4ad091df4ce3960d38952fa2a32232a136bf40beb863972a41527fe6d",
+    "sitemap.xml": "1b17a9a4915597ecfdb8b56e5a215b1b8419f1e0b26e480a868536af58d47eb0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4b0244bd671a6556676be411c036edaf7e90e9a392ddc03efefb1570a98eb49b",
+    "robots.txt": "08f0e05a243bb1eaba0f7900c2b896de0d12ec5817875f12cd51e61d3605c8c9",
+    "58654544f213f3fe12e3059a87c43474.txt": "22f268699129d1054fcf07682743829cadaaf42119edfd67aedbabe7c7542b6f"
+  },
+  "revision": "54f322cbf27183a7a205db88715ad15b9f06d3c6de96a416a728a6139574c339"
+}

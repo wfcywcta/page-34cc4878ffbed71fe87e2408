@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://guanglingjob.cn/sitemap.xml
